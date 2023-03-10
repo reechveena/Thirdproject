@@ -6,6 +6,7 @@ public class hello3 {
 		
 		
 System.out.println("practice for project");
+System.out.println("do the practice");
 	}
 
 }
